@@ -7,3 +7,5 @@ Change dev.
 add cr
 add crwindows
 add 2
+add 3
+text1
